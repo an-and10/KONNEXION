@@ -1,0 +1,67 @@
+
+.signup-page{
+	width:60%;
+	padding:2% ;
+	margin:auto;
+	background:radial-gradient(blue,lightblue,lightgreen,red);
+	border-radius:10%;
+}
+.form{
+	position: relative;
+	background:url("o_hanami_blossom_festival_and_to_enjoy_the_cherry_blossoms_japan_93605_1920x1080.jpg");
+	max-width:100%;
+	margin: 0 auto ;
+	padding: 10px;
+	text-align: left;
+
+
+
+
+}
+.form input{
+	font-family: "Roboto" , sans-serif;
+	outline:1800;
+	background:#f2f2f2;
+	width:100%;
+	border-style:solid black ;
+	margin:0 0 0 0;
+	padding: 15px;
+	box-sizing:border-box;
+	font-size: 15px;
+	display: inline-block;
+	font-family: Monotype corsiva;
+	font-size:1.5em;
+    
+    background-color: springgreen;
+}
+body{
+	background: url("cricket.jpg");
+	font-family: "Arial";
+	background-size: cover;
+	color:black;
+}
+button {
+    background-color: orange;
+    padding: 8px 8px;
+    margin: 20px 4px;*/
+    border: 2px;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+    border:dotted;
+}
+.form input:focus {
+    background-color: magenta;
+    outline: 18%;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    padding: 8px 8px;
+    margin: 20px 4px;
+    border: 2px;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+    border:dotted;
+}
